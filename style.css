@@ -2,9 +2,27 @@ body {
         background-color: #C3B1E1;
         color: white;
         font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align:center;
 }
 p {
     text-align: center;
 }
 h1 {text-align: center;}
 
+.button-class {
+    background-color:#B6D8F2;
+    border: 10px;
+    color:black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+a {
+    text-align: center;
+}
